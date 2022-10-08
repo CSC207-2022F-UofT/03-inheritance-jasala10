@@ -14,6 +14,9 @@ import static org.junit.Assert.*;
 
 public class HandBagTest {
     HandBag b;
+    Bag bag;
+
+
 
     @Before
     public void setUp() throws Exception {
